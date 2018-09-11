@@ -1,0 +1,99 @@
+.menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-152 current_page_item menu-item-155 active {    
+    color:white;
+}
+.menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-152 current_page_item menu-item-155 active:hover {
+    color: white;   
+}
+
+.year {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-animation: myfirst 5s 2; /* Safari 4.0 - 8.0 */
+    -webkit-animation-direction: alternate; /* Safari 4.0 - 8.0 */
+    animation: myfirst 5s 2;
+    animation-direction: alternate;
+    background-color: #0088cc;
+}
+
+
+@-webkit-keyframes myfirst {
+    0%   {background: #89CCFF; left: 0px; top: 0px;}
+    25%  {background: #010080; left: 10800px; top: 0px;}
+    50%  {background: #0080FF; left: 1080px; top: 200px;}
+    75%  {background: #BDFFFD; left: 0px; top: 200px;}
+    100% {background: #0199CB; left: 0px; top: 0px;}
+}
+
+@keyframes myfirst {
+    0%   {background: #89CCFF; left: 0px; top: 0px;}
+    25%  {background: #010080; left: 1080px; top: 0px;}
+    50%  {background: #0080FF; left: 1080px; top: 200px;}
+    75%  {background: #BDFFFD; left: 0px; top: 200px;}
+    100% {background: #0199CB; left: 0px; top: 0px;}
+}
+
+.inner-box {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: aquamarine;
+    padding: 30px;
+}
+
+.text {
+    font-size: 25px;
+    padding: 10px;
+    color: aliceblue;
+}
+.year-block {
+    color: aliceblue;
+    padding: 20px;
+}
+
+.ecell_logo {
+    float: left;
+    width: 30%;
+    margin: 20px;
+    
+    
+}
+.univ_logo{ 
+    width: 20%;
+    height: 10%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:none;
+    float: left;
+}
+
+@media screen and (max-width: 650px) {
+  .ecell_logo {
+    float: inherit;
+  }
+    .univ_logo {
+        float: inherit;
+    }
+}
+
+.sticky-header {
+    
+ height: 14%;    
+}
+.navigation clearfix {
+    
+    margin: 0 auto;
+}
+
+
+.img-responsive {
+    width: 40%;
+    float: left;
+}
+
+.social-icon-two {
+    
+    float: left;
+}
+.footer_logo {
+     float: left;
+    margin-top: 2px;
+    width: 80%;
+}
