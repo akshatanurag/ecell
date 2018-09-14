@@ -204,7 +204,7 @@ img.emoji {
 	<li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400"><a title="Blog Details" href=" 2018/03/user-generated-content-in-real-time-will-have-multiple-touch-4/index.html">Blog Details</a></li>
 --></ul>
 </li>
-<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Contact Us" href="#" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Contact Us" href="pages/contact/contact.html" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -318,7 +318,7 @@ img.emoji {
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400"><a title="Blog Details" href=" 2018/03/user-generated-content-in-real-time-will-have-multiple-touch-4/index.html">Blog Details</a></li>
 --></ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Contact Us" href="#" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Contact Us" href="pages/contact/contact.html" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav>
